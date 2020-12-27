@@ -1,0 +1,12 @@
+C:\Users\ognje\Documents\ETF\3. godina\OPOS\projekat1\OposZadaci2020\Zadatak1\bin\Debug\netcoreapp3.1\TaskScheduler.exe
+C:\Users\ognje\Documents\ETF\3. godina\OPOS\projekat1\OposZadaci2020\Zadatak1\bin\Debug\netcoreapp3.1\TaskScheduler.deps.json
+C:\Users\ognje\Documents\ETF\3. godina\OPOS\projekat1\OposZadaci2020\Zadatak1\bin\Debug\netcoreapp3.1\TaskScheduler.runtimeconfig.json
+C:\Users\ognje\Documents\ETF\3. godina\OPOS\projekat1\OposZadaci2020\Zadatak1\bin\Debug\netcoreapp3.1\TaskScheduler.runtimeconfig.dev.json
+C:\Users\ognje\Documents\ETF\3. godina\OPOS\projekat1\OposZadaci2020\Zadatak1\bin\Debug\netcoreapp3.1\TaskScheduler.dll
+C:\Users\ognje\Documents\ETF\3. godina\OPOS\projekat1\OposZadaci2020\Zadatak1\bin\Debug\netcoreapp3.1\TaskScheduler.pdb
+C:\Users\ognje\Documents\ETF\3. godina\OPOS\projekat1\OposZadaci2020\Zadatak1\obj\Debug\netcoreapp3.1\TaskScheduler.AssemblyInfoInputs.cache
+C:\Users\ognje\Documents\ETF\3. godina\OPOS\projekat1\OposZadaci2020\Zadatak1\obj\Debug\netcoreapp3.1\TaskScheduler.AssemblyInfo.cs
+C:\Users\ognje\Documents\ETF\3. godina\OPOS\projekat1\OposZadaci2020\Zadatak1\obj\Debug\netcoreapp3.1\TaskScheduler.csproj.CoreCompileInputs.cache
+C:\Users\ognje\Documents\ETF\3. godina\OPOS\projekat1\OposZadaci2020\Zadatak1\obj\Debug\netcoreapp3.1\TaskScheduler.dll
+C:\Users\ognje\Documents\ETF\3. godina\OPOS\projekat1\OposZadaci2020\Zadatak1\obj\Debug\netcoreapp3.1\TaskScheduler.pdb
+C:\Users\ognje\Documents\ETF\3. godina\OPOS\projekat1\OposZadaci2020\Zadatak1\obj\Debug\netcoreapp3.1\TaskScheduler.genruntimeconfig.cache

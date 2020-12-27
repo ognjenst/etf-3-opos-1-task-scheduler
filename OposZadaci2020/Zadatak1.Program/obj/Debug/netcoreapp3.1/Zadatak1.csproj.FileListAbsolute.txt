@@ -1,0 +1,13 @@
+C:\Users\ognje\Documents\ETF\3. godina\OPOS\projekat1\OposZadaci2020\Zadatak1\bin\Debug\netcoreapp3.1\Zadatak1.exe
+C:\Users\ognje\Documents\ETF\3. godina\OPOS\projekat1\OposZadaci2020\Zadatak1\bin\Debug\netcoreapp3.1\Zadatak1.deps.json
+C:\Users\ognje\Documents\ETF\3. godina\OPOS\projekat1\OposZadaci2020\Zadatak1\bin\Debug\netcoreapp3.1\Zadatak1.runtimeconfig.json
+C:\Users\ognje\Documents\ETF\3. godina\OPOS\projekat1\OposZadaci2020\Zadatak1\bin\Debug\netcoreapp3.1\Zadatak1.runtimeconfig.dev.json
+C:\Users\ognje\Documents\ETF\3. godina\OPOS\projekat1\OposZadaci2020\Zadatak1\bin\Debug\netcoreapp3.1\Zadatak1.dll
+C:\Users\ognje\Documents\ETF\3. godina\OPOS\projekat1\OposZadaci2020\Zadatak1\bin\Debug\netcoreapp3.1\Zadatak1.pdb
+C:\Users\ognje\Documents\ETF\3. godina\OPOS\projekat1\OposZadaci2020\Zadatak1\obj\Debug\netcoreapp3.1\Zadatak1.csprojAssemblyReference.cache
+C:\Users\ognje\Documents\ETF\3. godina\OPOS\projekat1\OposZadaci2020\Zadatak1\obj\Debug\netcoreapp3.1\Zadatak1.AssemblyInfoInputs.cache
+C:\Users\ognje\Documents\ETF\3. godina\OPOS\projekat1\OposZadaci2020\Zadatak1\obj\Debug\netcoreapp3.1\Zadatak1.AssemblyInfo.cs
+C:\Users\ognje\Documents\ETF\3. godina\OPOS\projekat1\OposZadaci2020\Zadatak1\obj\Debug\netcoreapp3.1\Zadatak1.csproj.CoreCompileInputs.cache
+C:\Users\ognje\Documents\ETF\3. godina\OPOS\projekat1\OposZadaci2020\Zadatak1\obj\Debug\netcoreapp3.1\Zadatak1.dll
+C:\Users\ognje\Documents\ETF\3. godina\OPOS\projekat1\OposZadaci2020\Zadatak1\obj\Debug\netcoreapp3.1\Zadatak1.pdb
+C:\Users\ognje\Documents\ETF\3. godina\OPOS\projekat1\OposZadaci2020\Zadatak1\obj\Debug\netcoreapp3.1\Zadatak1.genruntimeconfig.cache

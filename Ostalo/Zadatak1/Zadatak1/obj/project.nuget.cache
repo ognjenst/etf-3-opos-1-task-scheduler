@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "03IhRuuN/6uGlh/PoNGkgvaqm+gnXfBQt54HmBX3AuhSksnskEV9G0JLju660ioAvTSt0EjQhAMUZLQMZgQN4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ognje\\Documents\\ETF\\3. godina\\OPOS\\projekat1\\Zadatak1\\Zadatak1\\Zadatak1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ognje\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ognje\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
